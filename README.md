@@ -1,7 +1,7 @@
 ## Olá, Eu sou Victor Almeida
 ### Bem vindo ao meu perfil GitHub 👋
 
-- 📚 Estudante de Ciência da Computação - Universidade Tecnológica Federal do Paraná
+- 📚 Estudante de Ciência da Computação - Universidade Tecnológica Federal do Paraná 
 
  <div>
   <a href="https://github.com/victoralmeidaa">
