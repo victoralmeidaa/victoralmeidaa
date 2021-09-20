@@ -1,4 +1,4 @@
-## Olá, Eu sou Victor Almeida ![V](https://visitor-badge.glitch.me/badge?page_id=victoralmeidaa.id&left_color=grey&right_color=blue)
+## Olá, Eu sou Victor Almeida <!--![V](https://visitor-badge.glitch.me/badge?page_id=victoralmeidaa.id&left_color=grey&right_color=blue)-->
 ### Bem vindo ao meu perfil GitHub 👋
 
 - 📚 Estudante de Ciência da Computação - Universidade Tecnológica Federal do Paraná 
