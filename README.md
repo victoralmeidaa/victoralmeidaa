@@ -1,8 +1,13 @@
 ## Olá, Eu sou Victor Almeida <!--![V](https://visitor-badge.glitch.me/badge?page_id=victoralmeidaa.id&left_color=grey&right_color=blue)-->
 ### Bem vindo ao meu perfil GitHub 👋 
 
-- 📚 Estudante de Ciência da Computação - Universidade Tecnológica Federal do Paraná.
+- 🎓 Estudante de Ciência da Computação - Universidade Tecnológica Federal do Paraná.
+- 📚 Olá! Como estudante de computação no 3° período, tenho habilidades em várias linguagens e tecnologias importantes para o mundo da tecnologia. Com conhecimento em      WordPress, Java, Hibernate, Node, React JS, HTML, CSS, tenho um conjunto sólido de habilidades que podem ser aplicadas em vários tipos de projetos.
 
+   Além disso, como Assistente de TI, posso oferecer suporte aos usuários finais, ajudando a resolver problemas técnicos e garantindo que as tecnologias e sistemas        estejam funcionando corretamente.
+   
+   
+   
  <div>
   <a href="https://github.com/victoralmeidaa">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=victoralmeidaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
