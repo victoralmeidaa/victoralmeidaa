@@ -29,11 +29,7 @@
 
    ![Snake animation](https://raw.githubusercontent.com/victoralmeidaa/victoralmeidaa/output/github-contribution-grid-snake.svg)
 
-   <h2 align="center">🐍 Snake eating my contributions 🐍</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/victoralmeidaa/victoralmeidaa/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+   
 
 
 </div>
