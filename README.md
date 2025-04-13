@@ -25,10 +25,6 @@
 <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
 <div align="center">
 
-   <p align="center">
-     <img src="https://raw.githubusercontent.com/victoralmeidaa/victoralmeidaa/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation" />
-   </p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victoralmeidaa/victoralmeidaa/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victoralmeidaa/victoralmeidaa/output/github-contribution-grid-snake.svg" />
