@@ -26,6 +26,9 @@
 <div align="center">
    
    ![Snake animation](https://github.com/victoralmeidaa/victoralmeidaa/blob/output/github-contribution-grid-snake.svg)
-   
+
+   ![Snake animation](https://raw.githubusercontent.com/victoralmeidaa/victoralmeidaa/output/github-contribution-grid-snake.svg)
+
+
 </div>
 </div>
