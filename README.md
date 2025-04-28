@@ -1,8 +1,32 @@
 ## Olá, Eu sou Victor Almeida <!--![V](https://visitor-badge.glitch.me/badge?page_id=victoralmeidaa.id&left_color=grey&right_color=blue)-->
-### Bem vindo ao meu perfil GitHub 👋 
+ Bem vindo ao meu perfil GitHub 👋 
 
-- 🎓 Estudante de Ciência da Computação - Universidade Tecnológica Federal do Paraná.
-- 📚 Olá! Como estudante de computação no 3° período, tenho habilidades em várias linguagens e tecnologias importantes para o mundo da tecnologia. Com conhecimento em      WordPress, Java, Hibernate, Node, React JS, HTML, CSS, tenho um conjunto sólido de habilidades que podem ser aplicadas em vários tipos de projetos.
+### 👋 Bem-vindo ao meu perfil no GitHub!
+Sobre mim
+-🎓 Graduando em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Avantis - Uniavan.
+
+-📚 Atualmente no 3º período, com foco em desenvolvimento web e gestão de projetos de tecnologia.
+
+-🚀 Apaixonado por aprender e criar soluções que impactam positivamente o dia a dia das pessoas.
+
+-🛠️ Tecnologias que trabalho
+
+📈 GitHub Stats
+
+🚀 Projetos em destaque
+Meu Portfólio Pessoal — Um site desenvolvido com WordPress e customizações em PHP.
+
+Sistema de Gerenciamento — Aplicação web usando PHP, JavaScript, HTML5 e CSS3.
+
+(Atualize os links acima com seus projetos reais!)
+
+📫 Como me encontrar
+✉️ Email: seuemail@email.com
+
+💼 LinkedIn: Seu LinkedIn
+
+Obrigado por visitar meu perfil! 👋
+
 
    
    
