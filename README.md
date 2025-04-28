@@ -2,13 +2,13 @@
 
 ### 👋 Bem-vindo ao meu perfil no GitHub!
 Sobre mim
--🎓 Graduando em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Avantis - Uniavan.
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Avantis - Uniavan.
 
--📚 Atualmente no 3º período, com foco em desenvolvimento web e gestão de projetos de tecnologia.
+- 📚 Atualmente no 3º período, com foco em desenvolvimento web e gestão de projetos de tecnologia.
 
--🚀 Apaixonado por aprender e criar soluções que impactam positivamente o dia a dia das pessoas.
+- 🚀 Apaixonado por aprender e criar soluções que impactam positivamente o dia a dia das pessoas.
 
--🛠️ Tecnologias que trabalho
+- 🛠️ Tecnologias que trabalho
 
 📈 GitHub Stats
 
