@@ -52,4 +52,4 @@ Sobre mim
 </div>
 </div>
 
-### 🛠️ Tecnologias que trabalho
+### 🛠️ Tecnologias que trabalho 🔽
