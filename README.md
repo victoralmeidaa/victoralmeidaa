@@ -10,7 +10,7 @@ Sobre mim
 
 ### 🛠️ Tecnologias que trabalho
 
-### 📈 GitHub Stats
+
 
 ### 🚀 Projetos em destaque
 - Meu Portfólio Pessoal — Um site desenvolvido com WordPress e customizações em PHP.
@@ -23,11 +23,10 @@ Sobre mim
 
 💼 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/victalmeida/)
 
-Obrigado por visitar meu perfil! 👋
+### Obrigado por visitar meu perfil! 👋
 
 
-   
-   
+### 📈 GitHub Stats
    
  <div>
   <a href="https://github.com/victoralmeidaa">
