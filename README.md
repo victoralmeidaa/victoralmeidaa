@@ -8,9 +8,6 @@ Sobre mim
 
 - 🚀 Apaixonado por aprender e criar soluções que impactam positivamente o dia a dia das pessoas.
 
-### 🛠️ Tecnologias que trabalho
-
-
 
 ### 🚀 Projetos em destaque
 - Meu Portfólio Pessoal — Um site desenvolvido com WordPress e customizações em PHP.
@@ -54,3 +51,5 @@ Sobre mim
 
 </div>
 </div>
+
+### 🛠️ Tecnologias que trabalho
