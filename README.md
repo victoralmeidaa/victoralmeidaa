@@ -4,25 +4,24 @@
 Sobre mim
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Avantis - Uniavan.
 
-- 📚 Atualmente no 3º período, com foco em desenvolvimento web e gestão de projetos de tecnologia.
+- 📚 Atualmente no 4º período, com foco em desenvolvimento web e gestão de projetos de tecnologia.
 
 - 🚀 Apaixonado por aprender e criar soluções que impactam positivamente o dia a dia das pessoas.
 
-- 🛠️ Tecnologias que trabalho
+### 🛠️ Tecnologias que trabalho
 
-📈 GitHub Stats
+### 📈 GitHub Stats
 
-🚀 Projetos em destaque
-Meu Portfólio Pessoal — Um site desenvolvido com WordPress e customizações em PHP.
+### 🚀 Projetos em destaque
+- Meu Portfólio Pessoal — Um site desenvolvido com WordPress e customizações em PHP.
 
-Sistema de Gerenciamento — Aplicação web usando PHP, JavaScript, HTML5 e CSS3.
+- Sistema de Gerenciamento — Aplicação web usando PHP, JavaScript, HTML5 e CSS3.
 
-(Atualize os links acima com seus projetos reais!)
 
-📫 Como me encontrar
-✉️ Email: seuemail@email.com
+### 📫 Como me encontrar
+✉️ Email: dev.br.victor@gmail.com
 
-💼 LinkedIn: Seu LinkedIn
+💼 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/victalmeida/)
 
 Obrigado por visitar meu perfil! 👋
 
