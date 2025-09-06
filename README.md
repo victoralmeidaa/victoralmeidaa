@@ -10,7 +10,7 @@ Sobre mim
 
 
 ### 🚀 Projetos em destaque
-- Meu Portfólio Pessoal — Um site desenvolvido com WordPress e customizações em PHP.
+https://react-victor-almeida.vercel.app/ - Meu Portfólio Pessoal — Um site desenvolvido com React e customizações em HTML e CSS.
 
 - Sistema de Gerenciamento — Aplicação web usando PHP, JavaScript, HTML5 e CSS3.
 
