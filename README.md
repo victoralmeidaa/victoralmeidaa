@@ -25,10 +25,8 @@ https://react-victor-almeida.vercel.app/ - Meu Portfólio Pessoal — Um site de
 
 ### 📈 GitHub Stats
    
- <div>
-  <a href="https://github.com/victoralmeidaa">
 
-</div>
+
 
  ##
  ### Link's:
