@@ -9,10 +9,7 @@ Sobre mim
 - 🚀 Apaixonado por aprender e criar soluções que impactam positivamente o dia a dia das pessoas.
 
 
-### 🚀 Projetos em destaque
-https://react-victor-almeida.vercel.app/ - Meu Portfólio Pessoal — Um site desenvolvido com React e customizações em HTML e CSS.
 
-- Sistema de Gerenciamento — Aplicação web usando PHP, JavaScript, HTML5 e CSS3.
 
 
 ### 📫 Como me encontrar
