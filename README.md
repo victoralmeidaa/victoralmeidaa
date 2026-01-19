@@ -22,15 +22,34 @@ Sobre mim
 
 ### 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=victoralmeidaa&custom_title=Minhas%20Estatísticas%20GitHub%202025&include_all_commits&show_icons=true&theme=dark&bg_color=00000000&locale=pt-br&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=450px)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=victoralmeidaa&custom_title=Minhas%20Estatísticas%20GitHub%202026&commits_year=2026_&show_icons=true&theme=radical&bg_color=00000000&locale=pt-br&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=450px)
 
-<a href="https://github.com/victoralmeidaa">
-  <img height=500 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoralmeidaa&hide=Jupyter%20Notebook&stats_format=bytes&theme=radical&bg_color=00000000&locale=pt-br&langs_count=20&card_width=450px" />
-</a>
-<a href="https://github.com/victoralmeidaa">
-  <img height=500 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoralmeidaa&hide=Jupyter%20Notebook&layout=compact&theme=radical&bg_color=00000000&locale=pt-br&langs_count=20&card_width=450px" />
-</a>
+<div align="center">
+  <img style="margin-right:12px;"
+    src="https://github-readme-stats.vercel.app/api?username=victoralmeidaa&custom_title=Minhas%20Estatísticas%20GitHub%202025&include_all_commits&show_icons=true&theme=dark&bg_color=00000000&locale=pt-br&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=500"
+    height="265"
+  />
+  <img style="margin-right:12px;"
+    src="https://github-readme-stats.vercel.app/api?username=victoralmeidaa&custom_title=Minhas%20Estatísticas%20GitHub%202026&commits_year=2026_&show_icons=true&theme=radical&bg_color=00000000&locale=pt-br&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=500"
+    height="265"
+  />
+</div>
+
+<div align="center">
+  <a href="https://github.com/victoralmeidaa">
+    <img  style="margin-right:12px;"
+      height="400"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoralmeidaa&hide=Jupyter%20Notebook&langs_count=10&theme=radical&bg_color=00000000&stats_format=bytes&card_width=450"
+    />
+  </a>
+
+  <a href="https://github.com/victoralmeidaa">
+    <img style="margin-right:12px;"
+      height="400"
+      align="top"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoralmeidaa&layout=compact&hide=Jupyter%20Notebook&langs_count=10&theme=radical&bg_color=00000000&card_width=450"
+    />
+  </a>
+</div>
 
  ##
  ### Link's:
