@@ -38,7 +38,7 @@ Sobre mim
   <a href="https://github.com/victoralmeidaa">
     <img  style="margin-right:12px;"
       height="400"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoralmeidaa&hide=Jupyter%20Notebook&langs_count=10&theme=radical&bg_color=00000000&stats_format=bytes&card_width=450"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoralmeidaa&hide=Jupyter%20Notebook&langs_count=10&theme=radical&bg_color=00000000&stats_format=bytes&card_width=450&locale=pt-br"
     />
   </a>
 
@@ -46,7 +46,7 @@ Sobre mim
     <img style="margin-right:12px;"
       height="400"
       align="top"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoralmeidaa&layout=compact&hide=Jupyter%20Notebook&langs_count=10&theme=radical&bg_color=00000000&card_width=450"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoralmeidaa&layout=compact&hide=Jupyter%20Notebook&langs_count=10&theme=radical&bg_color=00000000&card_width=450&locale=pt-br"
     />
   </a>
 </div>
