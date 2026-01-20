@@ -13,7 +13,7 @@ Sobre mim
 
 
 ### 📫 Como me encontrar
-✉️ Email: dev.br.victor@gmail.com
+✉️ Email: devictoralmeidaa@gmail.com
 
 💼 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/victalmeida/)
 
