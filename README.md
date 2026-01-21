@@ -25,11 +25,7 @@ Sobre mim
 
 <div align="center">
   <img style="margin-right:12px;"
-    src="https://github-readme-stats.vercel.app/api?username=victoralmeidaa&custom_title=Minhas%20Estatísticas%20GitHub%202025&include_all_commits&show_icons=true&theme=dark&bg_color=00000000&locale=pt-br&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=500"
-    height="265"
-  />
-  <img style="margin-right:12px;"
-    src="https://github-readme-stats.vercel.app/api?username=victoralmeidaa&custom_title=Minhas%20Estatísticas%20GitHub%202026&commits_year=2026_&show_icons=true&theme=radical&bg_color=00000000&locale=pt-br&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=500"
+    src="https://github-readme-stats.vercel.app/api?username=victoralmeidaa&custom_title=Minhas%20Estatísticas%20GitHub%202026&commits_year=2026&show_icons=true&theme=dark&bg_color=00000000&locale=pt-br&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=1000"
     height="265"
   />
 </div>
