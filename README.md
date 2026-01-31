@@ -1,26 +1,26 @@
 ## Olá, Eu sou Victor Almeida <!--![V](https://visitor-badge.glitch.me/badge?page_id=victoralmeidaa.id&left_color=grey&right_color=blue)-->
 
-### 👋 Bem-vindo ao meu perfil no GitHub!
+### Bem-vindo ao meu perfil no GitHub!
 Sobre mim
-- 🎓 Graduando em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Avantis - Uniavan.
+- Graduando em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Avantis - Uniavan.
 
-- 📚 Atualmente no 4º período, com foco em desenvolvimento web e gestão de projetos de tecnologia.
+- Atualmente no 4º período, com foco em desenvolvimento web e gestão de projetos de tecnologia.
 
-- 🚀 Apaixonado por aprender e criar soluções que impactam positivamente o dia a dia das pessoas.
-
-
+- Apaixonado por aprender e criar soluções que impactam positivamente o dia a dia das pessoas.
 
 
 
-### 📫 Como me encontrar
-✉️ Email: victordealmeida5@gmail.com
-
-💼 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/victalmeida/)
-
-### Obrigado por visitar meu perfil! 👋
 
 
-### 📈 GitHub Stats
+### Como me encontrar
+-  Email: victordealmeida5@gmail.com
+
+- LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/victalmeida/)
+
+### Obrigado por visitar meu perfil!
+
+
+### GitHub Stats
 
 
 <div align="center">
@@ -67,4 +67,4 @@ Sobre mim
 </div>
 </div>
 
-### 🛠️ Tecnologias que trabalho 🔽
+### Tecnologias que trabalho 
